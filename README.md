@@ -4,7 +4,9 @@
 ![image](https://github.com/user-attachments/assets/12066db6-fda6-4aaa-b7aa-8dab79fda6da)
 
 About Task📜:
+
 From given stock dataset, analyzed
+
 1. Stock performance over years.
 2. Creat graphs related to different attributes with storytelling process.
 3. Build a model which can predict the stock price.
@@ -20,4 +22,5 @@ This is the data of NSE(National Stock Exchange) listed KOTAK MAHINDRA BANK PVT.
 - pip install kaleido
 
 Note✒️: GitHub is not supporting dynamic images so I attached images of graphs in markdown cell.
+
 Thank You🤝
